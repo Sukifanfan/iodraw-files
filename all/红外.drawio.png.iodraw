@@ -65,6 +65,9 @@
         <mxCell id="H2czOBavyBXR229yby02-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-6" target="H2czOBavyBXR229yby02-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-6" target="H2czOBavyBXR229yby02-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-6" value="视频DMA模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="80" height="80" as="geometry" />
         </mxCell>
@@ -109,6 +112,9 @@
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-36" value="3559" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-38" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
