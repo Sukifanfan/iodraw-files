@@ -122,6 +122,9 @@
         <mxCell id="H2czOBavyBXR229yby02-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-40" target="H2czOBavyBXR229yby02-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-40" target="H2czOBavyBXR229yby02-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-40" value="DSP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
@@ -154,6 +157,12 @@
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-51" value="PCIE接口模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-56" target="mTjV6ry47rRnA7mIb1ua-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-56" value="SRIO数据RX 传输模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="117.5" width="100" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
