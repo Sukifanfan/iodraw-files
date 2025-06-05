@@ -68,10 +68,7 @@
         <mxCell id="H2czOBavyBXR229yby02-6" value="视频DMA模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-15" target="H2czOBavyBXR229yby02-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H2czOBavyBXR229yby02-15" value="LVDS时序生成并转换模块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2czOBavyBXR229yby02-27" target="H2czOBavyBXR229yby02-28">
@@ -100,9 +97,6 @@
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-31" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
