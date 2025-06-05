@@ -53,7 +53,7 @@
         <mxCell id="H2czOBavyBXR229yby02-1" value="DDR3" style="whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="117.5" width="85" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-4" target="mTjV6ry47rRnA7mIb1ua-1">
+        <mxCell id="H2czOBavyBXR229yby02-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2czOBavyBXR229yby02-4" target="H2czOBavyBXR229yby02-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -70,6 +70,20 @@
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2czOBavyBXR229yby02-27" target="H2czOBavyBXR229yby02-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-26" value="axi stream" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2czOBavyBXR229yby02-25">
+          <mxGeometry x="-0.025" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-27" value="GTX RX中波接口模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-28" value="视频DMA模块" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
