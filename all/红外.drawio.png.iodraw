@@ -15,8 +15,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vk7ZETMl2HoHkWq2aMSl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="mTjV6ry47rRnA7mIb1ua-1" target="vk7ZETMl2HoHkWq2aMSl-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vk7ZETMl2HoHkWq2aMSl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="mTjV6ry47rRnA7mIb1ua-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vk7ZETMl2HoHkWq2aMSl-3" value="GTX" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vk7ZETMl2HoHkWq2aMSl-2" vertex="1" connectable="0">
           <mxGeometry x="0.4" y="-2" relative="1" as="geometry">
@@ -24,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mTjV6ry47rRnA7mIb1ua-1" value="GTX RX接口模块" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="210" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="230" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mTjV6ry47rRnA7mIb1ua-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="mTjV6ry47rRnA7mIb1ua-2" target="mTjV6ry47rRnA7mIb1ua-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,20 +34,20 @@
         <mxCell id="mTjV6ry47rRnA7mIb1ua-2" value="AXI connect" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="370" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mTjV6ry47rRnA7mIb1ua-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="370" y="420" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="mTjV6ry47rRnA7mIb1ua-6" target="H2czOBavyBXR229yby02-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTjV6ry47rRnA7mIb1ua-6" value="MIG" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vk7ZETMl2HoHkWq2aMSl-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="30" y="235" width="130" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-1" value="DDR3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="270" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H2czOBavyBXR229yby02-4" target="mTjV6ry47rRnA7mIb1ua-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H2czOBavyBXR229yby02-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="177.5" width="60" height="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
