@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YuulXIXUlxPyAXMD_W-3-28" value="PCIE接口模块" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YuulXIXUlxPyAXMD_W-3-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YuulXIXUlxPyAXMD_W-3-30" target="YuulXIXUlxPyAXMD_W-3-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YuulXIXUlxPyAXMD_W-3-40" value="3559" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="780" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YuulXIXUlxPyAXMD_W-3-41" value="FPGA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="700" width="140" height="60" as="geometry" />
