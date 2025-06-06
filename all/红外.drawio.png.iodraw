@@ -59,28 +59,16 @@
         <mxCell id="H2czOBavyBXR229yby02-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="H2czOBavyBXR229yby02-6" target="mTjV6ry47rRnA7mIb1ua-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2czOBavyBXR229yby02-6" target="H2czOBavyBXR229yby02-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="H2czOBavyBXR229yby02-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2czOBavyBXR229yby02-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2czOBavyBXR229yby02-6" target="H2czOBavyBXR229yby02-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-6" value="视频数据读写DMA模块" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="360" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2czOBavyBXR229yby02-15" target="H2czOBavyBXR229yby02-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-15" value="LVDS时序生成并转换模块" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="380" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2czOBavyBXR229yby02-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H2czOBavyBXR229yby02-34" value="LVDS接口模块" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2czOBavyBXR229yby02-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H2czOBavyBXR229yby02-38" target="H2czOBavyBXR229yby02-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
