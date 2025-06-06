@@ -25,7 +25,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YuulXIXUlxPyAXMD_W-3-6" value="GTX RX中波接口模块" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="YuulXIXUlxPyAXMD_W-3-6" value="GTX RX接口模块" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="200" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YuulXIXUlxPyAXMD_W-3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="YuulXIXUlxPyAXMD_W-3-9" target="YuulXIXUlxPyAXMD_W-3-12" edge="1">
